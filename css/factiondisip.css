@@ -269,11 +269,12 @@ a {
     margin-top: 0px;
 }
 
-.SUBSCRIBE-input{
+.SUBSCRIBE-input {
     width: 80%;
     margin: 0% 10% 0% 10%;
     padding: 0px 20px 0px 20px;
 }
+
 .SUBSCRIBE-input input {
     padding-top: 25px;
     padding-bottom: 25px;
@@ -285,15 +286,17 @@ a {
     margin-bottom: 20px;
 }
 
-.signup-button{
+.signup-button {
     width: 80%;
     margin: 0% 10% 0% 10%;
     padding: 0px 20px 0px 20px;
 }
-.signup-button .btn-primary:hover{
-    background-color:#eca34dc4 ;
+
+.signup-button .btn-primary:hover {
+    background-color: #eca34dc4;
 }
-.signup-button button{
+
+.signup-button button {
     margin-top: 20px;
     padding-top: 25px;
     padding-bottom: 25px;
@@ -731,7 +734,7 @@ footer {
 
     .icon-img-div {
         display: flex;
-        justify-content:center;
+        justify-content: center;
     }
 
 }
