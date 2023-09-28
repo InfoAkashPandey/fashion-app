@@ -269,26 +269,39 @@ a {
     margin-top: 0px;
 }
 
-.sec-5-row {
-    margin: 0px;
+.SUBSCRIBE-input{
+    width: 80%;
+    margin: 0% 10% 0% 10%;
+    padding: 0px 20px 0px 20px;
 }
-
-.sec-5-col input {
-    height: 80px;
+.SUBSCRIBE-input input {
+    padding-top: 25px;
+    padding-bottom: 25px;
     outline: none;
     padding-left: 20px;
-    width: 70%;
     font-size: 17px;
     border: hidden;
     box-shadow: 0 0 10px #ccc;
     margin-bottom: 20px;
 }
 
-.sec-5-button button {
+.signup-button{
+    width: 80%;
+    margin: 0% 10% 0% 10%;
+    padding: 0px 20px 0px 20px;
+}
+.signup-button .btn-primary:hover{
+    background-color:#eca34dc4 ;
+}
+.signup-button button{
     margin-top: 20px;
-    height: 80px;
-    width: 72%;
-    padding-left: 10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    outline: none;
+    width: 100%;
+    padding-left: 20px;
+    border: hidden;
+    box-shadow: 0 0 10px #ccc;
     background-color: #ffa627;
     color: white;
     font-size: 24px;
